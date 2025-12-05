@@ -1,4 +1,4 @@
-# 🏍️ Smart Parts Finder - Replace Excel with Lightning-Fast Search
+# 🏍️ simple item/product Finder - Replace Excel with Lightning-Fast Search
 
 A **simple automation tool** that eliminates Excel spreadsheets and manual searching. Find any motorcycle part in seconds instead of scrolling through endless rows and sheets!
 
